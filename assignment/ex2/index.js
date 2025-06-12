@@ -1,4 +1,4 @@
-// Instructions: https://github.com/HackYourFuture/UsingAPIs-assignment-week2.md#instructions--ex2
+// Instructions: https://github.com/HackYourFuture/UsingAPIs-assignment-week2#instructions-ex2
 
 function fetchData(/* TODO parameter(s) go here */) {
   // TODO#1

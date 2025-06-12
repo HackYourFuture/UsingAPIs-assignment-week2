@@ -1,4 +1,4 @@
-// Instructions: https://github.com/HackYourFuture/UsingAPIs-assignment-week2#instructions--ex1
+// Instructions: https://github.com/HackYourFuture/UsingAPIs-assignment-week2#instructions-ex1
 
 function requestData(url) {
   // TODO#1

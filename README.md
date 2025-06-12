@@ -76,7 +76,7 @@ The individual exercises will be described in the sections below.
 
 Who knew programmers could be funny?
 
-#### Instructions - ex1
+#### Instructions ex1
 
 - **TODO#1**: Complete the function `requestData()` to use `fetch()` to make a request to the URL passed as an argument. Return a promise that resolves with the data. Reject the promise in case of HTTP or network errors.
 
@@ -106,7 +106,7 @@ In this exercise, you will:
 2. Fetch data from a public API: <https://pokeapi.co/api/v2/pokemon?limit=151>
 3. Display the results in the DOM.
 
-#### Instructions - ex2
+#### Instructions ex2
 
 - Complete the four functions provided in the starter `index.js` file (see table below). Ensure that the function bodies accurately implement the functionality implied by their names. (A mismatch between a function name and its implementation can lead to confusion.)
 
@@ -159,7 +159,7 @@ Hmm, while this works fine, it is probably a bit difficult to wrap your head aro
 
 Luckily, this code can be rewritten to be much simpler, using async/await.
 
-#### Instructions - ex3
+#### Instructions ex3
 
 - Run the unmodified exercise and observe that it works as advertised. Observe that the die must be thrown an indeterminate number of times until we get an ACE or until it rolls off the table.
 
@@ -256,7 +256,7 @@ As for JSDoc, we do not expect you to use TypeScript during the HackYourFuture c
 
 In this exercise, we will again throw five dice at once, but this time we are only interested in the first die that settles successfully (promise resolved) or rolls off the table (promise rejected). This is something for which the `Promise.race()` method seems to be ideal. If you successfully completed Exercise 4 last week, this one should be easy:
 
-#### Instructions - ex4
+#### Instructions ex4
 
 - **TODO#1**: Complete the function `rollDice()` by using `.map()` on the `dice` array to create an array of promises for use with `Promise.race()`.
 

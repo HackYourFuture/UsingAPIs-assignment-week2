@@ -1,4 +1,4 @@
-// Instructions: https://github.com/HackYourFuture/UsingAPIs-assignment-week2#instructions--ex3
+// Instructions: https://github.com/HackYourFuture/UsingAPIs-assignment-week2#instructions-ex3
 
 // ! Do not change or remove the next two lines
 import { rollDie } from '../helpers/pokerDiceRoller.js';
